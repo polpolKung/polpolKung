@@ -7,7 +7,7 @@ Student
 I'm studying in the Faculty of Information Technology at KMUTT University.
 
 * 🌍  I'm based in Bangkok, Thiland
-* ✉️  You can contact me at [chanpol.thip@kmutt.ac.th](mailto:chanpol.thip@kmutt.ac.th)
+* ✉️  You can contact me at [chanpol.thip@kmutt.ac.th](mailto:chanpol.thip@gmail.com)
 
 ### Skills
 
