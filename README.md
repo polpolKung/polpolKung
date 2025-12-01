@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chanpol Thippawan
 =========================================================================================================================================
 
-Student
+Fresh Graduate
 -------
 
-I'm studying in the Faculty of Information Technology at KMUTT University.
+I graduated from the Faculty of Information Technology at KMUTT University.
 
 * 🌍  I'm based in Bangkok, Thiland
 * ✉️  You can contact me at [chanpol.thip@gmail.com](mailto:chanpol.thip@gmail.com)
